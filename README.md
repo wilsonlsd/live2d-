@@ -7,3 +7,5 @@
 
 ## 演示
 演示网站：[box.mozhulol.xyz](http://box.mozhulol.xyz)
+
+![实例展示](https://github.com/wilsonlsd/live2d-xxb/blob/main/%E5%B1%95%E7%A4%BA.png?raw=true)
